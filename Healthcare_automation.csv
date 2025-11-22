@@ -1,0 +1,11 @@
+Department,Task,Time_Saved_Minutes,Error_Rate_Before,Error_Rate_After,Satisfaction_Score,Adoption_Rate,Monthly_Cost_Savings
+Radiology,Report Generation,45,12,3,8.5,90,12000
+Pharmacy,Inventory Refill,30,8,2,9.2,85,8000
+Billing,Claims Processing,60,15,4,8.9,95,15000
+Nursing,Shift Scheduling,25,10,3,8.1,80,7000
+Lab,Test Result Entry,40,9,2,9,88,9500
+Admissions,Patient Intake,35,11,3,8.3,82,8700
+Surgery,Pre-op Checklist,50,14,5,9.5,92,13000
+IT,System Maintenance,70,7,1,9.8,98,16000
+Housekeeping,Room Assignment,20,6,2,7.9,75,6000
+Cafeteria,Meal Planning,15,5,1,8,70,5500
